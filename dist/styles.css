@@ -1,0 +1,13 @@
+.wrapper {
+  border: 1px solid navy;
+  padding: 20px;
+  margin: 50px;
+  font-size: 20px;
+  line-height: 2em; }
+  .wrapper .functional {
+    color: salmon; }
+  .wrapper .class {
+    color: green; }
+  .wrapper .pure {
+    color: blueviolet; }
+
